@@ -1,4 +1,4 @@
-This project was created for Splyt Challenge with [Create React App](https://github.com/facebook/create-react-app).
+This project was created for Splyt Challenge
 
 Go to directory root and run
 
